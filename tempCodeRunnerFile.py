@@ -1,0 +1,1 @@
+print (exchange_rate)
